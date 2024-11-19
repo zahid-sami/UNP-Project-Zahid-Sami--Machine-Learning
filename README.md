@@ -1,4 +1,4 @@
-# UNP-Project-Zahid-Sami--Machine-Learning
+# UNP-Project-with-Machine-Learning
 
 Completed this project as a part of my Python (Machine Learning) Internship with United Network of Professionals (UNP).
 
