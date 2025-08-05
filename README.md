@@ -11,7 +11,7 @@ TOPICS COVERED
 
 2. Converting Categorical Values to Numerical
 
-3. Plotting Heatmap to See Dependency of Dependent Value on Independent Features
+3. Plotting a Heatmap to See the Dependency of the Dependent Value on Independent Features
 
 4. Data Visualization (Plots of Feature vs Feature)
 
