@@ -1,5 +1,7 @@
-# UNP-Project-with-Machine-Learning
 
+![download](https://github.com/user-attachments/assets/a8343c31-b386-437d-a939-d0a52ecea1d5)
+
+# UNP-Project-with-Machine-Learning
 Completed this project as a part of my Python (Machine Learning) Internship with United Network of Professionals (UNP).
 
 OVERVIEW:- This project covers various foundational aspects of a machine learning project including data preprocessing, data visualization, and prediction using multiple models. The best-performing model was chosen for deployment
